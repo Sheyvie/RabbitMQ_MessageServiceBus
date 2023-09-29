@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPYobXYUAQvE2drY1cAmy7qie3aC2+CefT9GKvVGXxOa70lGudCs6DhQ42LWtiVgquxDtTFCnjyIS/FNCiaZaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Mylearning\\RabbitMQ\\Ex_Files_RabbitMQ_Upd\\Exercise Files\\Ch_02\\02_01 Begin\\WebApp\\ExploreCalifornia.WebApp\\ExploreCarlifornia.EmailService\\ExploreCarlifornia.EmailService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
